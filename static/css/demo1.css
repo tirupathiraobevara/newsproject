@@ -1,0 +1,25 @@
+.j umbotron
+{
+    background: yellow;
+}
+.container{
+    margin-top: 100px;
+
+}
+body{
+    background: url("https://media.istockphoto.com/id/1422778101/photo/newspaper-advertising-magazine-brochure-mockup-3d-rendering.jpg?b=1&s=170667a&w=0&k=20&c=1CTf7cLCc1YKLIyqBg7y4iji191dSeE6-8bxZ7XIwUM=");
+}
+h1 {
+    background: yellow;
+    color: blue;
+    text-align: center;
+}
+ul{
+    color:blue ;
+    font-size: 30px;
+
+}
+img{
+    margin: 50px;
+    border: 5px solid red;
+}
